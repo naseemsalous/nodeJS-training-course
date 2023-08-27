@@ -14,6 +14,7 @@ function isPrime(number) {
   }
   
 
+  
   console.log(isPrime(2));   //  true
   console.log(isPrime(17));  //  true
   console.log(isPrime(4));   //  false
